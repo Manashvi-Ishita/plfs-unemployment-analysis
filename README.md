@@ -222,5 +222,5 @@ jupyter notebook
 
 **Manashvi Ishita**
 - GitHub: [Manashvi-Ishita](https://github.com/Manashvi-Ishita)
-- LinkedIn:[Manashvi Ishita](www.linkedin.com/in/manashvi-ishita)
+- LinkedIn:[Manashvi Ishita](https://www.linkedin.com/in/manashvi-ishita)
 
