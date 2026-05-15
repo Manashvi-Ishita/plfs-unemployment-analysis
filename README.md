@@ -175,7 +175,7 @@ plfs-unemployment-analysis/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/plfs-unemployment-analysis.git
+git clone https://github.com/Manashvi-Ishita/plfs-unemployment-analysis.git
 cd plfs-unemployment-analysis
 ```
 
@@ -221,6 +221,6 @@ jupyter notebook
 ## Author
 
 **Manashvi Ishita**
-- GitHub: [https://github.com/Manashvi-Ishita]
-- LinkedIn: [www.linkedin.com/in/manashvi-ishita]
+- GitHub: [Manashvi-Ishita](https://github.com/Manashvi-Ishita)
+- LinkedIn:[Manashvi Ishita](www.linkedin.com/in/manashvi-ishita)
 
