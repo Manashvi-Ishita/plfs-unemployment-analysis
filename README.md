@@ -221,6 +221,6 @@ jupyter notebook
 ## Author
 
 **Manashvi Ishita**
-- GitHub: [your github link]
+- GitHub: [https://github.com/Manashvi-Ishita]
 - LinkedIn: [www.linkedin.com/in/manashvi-ishita]
 
