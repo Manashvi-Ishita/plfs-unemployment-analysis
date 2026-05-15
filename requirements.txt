@@ -1,0 +1,21 @@
+## Requirements
+
+### Languages & Tools
+- Python 3.8+
+- PostgreSQL
+- Power BI Desktop
+- VS Code
+- Jupyter Notebook
+
+### Python Libraries
+- pandas
+- matplotlib
+- openpyxl
+
+### Database & SQL
+- PostgreSQL (pgAdmin 4)
+- SQL Tool Extension — Matheus Teixeira (VS Code)
+
+### Data Format
+- Input  : .xlsx (Excel)
+- Output : .csv (CSV)

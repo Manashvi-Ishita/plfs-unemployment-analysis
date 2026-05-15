@@ -1,0 +1,28 @@
+year,state,sector,gender,indicator,value
+2023-24,all India,Rural,Male,Unemployment Rate,2.7
+2023-24,all India,Rural,Female,Unemployment Rate,2.1
+2023-24,all India,Rural,Person,Unemployment Rate,2.5
+2023-24,all India,Urban,Male,Unemployment Rate,4.4
+2023-24,all India,Urban,Female,Unemployment Rate,7.1
+2023-24,all India,Urban,Person,Unemployment Rate,5.1
+2023-24,all India,Rural+Urban,Male,Unemployment Rate,3.2
+2023-24,all India,Rural+Urban,Female,Unemployment Rate,3.2
+2023-24,all India,Rural+Urban,Person,Unemployment Rate,3.2
+2023-24,all India,Rural,Male,Worker Population Ratio,78.1
+2023-24,all India,Rural,Female,Worker Population Ratio,46.5
+2023-24,all India,Rural,Person,Worker Population Ratio,62.1
+2023-24,all India,Urban,Male,Worker Population Ratio,72.3
+2023-24,all India,Urban,Female,Worker Population Ratio,26.0
+2023-24,all India,Urban,Person,Worker Population Ratio,49.4
+2023-24,all India,Rural+Urban,Male,Worker Population Ratio,76.3
+2023-24,all India,Rural+Urban,Female,Worker Population Ratio,40.3
+2023-24,all India,Rural+Urban,Person,Worker Population Ratio,58.2
+2023-24,all India,Rural,Male,Labour Force Participation Rate,80.2
+2023-24,all India,Rural,Female,Labour Force Participation Rate,47.6
+2023-24,all India,Rural,Person,Labour Force Participation Rate,63.7
+2023-24,all India,Urban,Male,Labour Force Participation Rate,75.6
+2023-24,all India,Urban,Female,Labour Force Participation Rate,28.0
+2023-24,all India,Urban,Person,Labour Force Participation Rate,52.0
+2023-24,all India,Rural+Urban,Male,Labour Force Participation Rate,78.8
+2023-24,all India,Rural+Urban,Female,Labour Force Participation Rate,41.7
+2023-24,all India,Rural+Urban,Person,Labour Force Participation Rate,60.1
